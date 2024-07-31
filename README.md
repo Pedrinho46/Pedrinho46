@@ -1,25 +1,23 @@
-### **Olá eu sou o Pedrinho46🧐**
-- 🔭 Hoje estou trabalhando com o backend
-- 🌱 Estudando NodeJs
-- 🤖 Trabalho na Ipsolution
+<code>Console.log("Hello! My name is Pedro Cabral")</code>
+
+A Developer from Brazil with one year of experience in technical support and back end development
+
+* 👨‍💻 Backend developer at [IP Solution](https://ipsolutiontelecom.com.br/).
+* 💻 Currently studying Systems Analysis and Development at [Unifil](https://unifil.br/).
+* 🌱 Currently learning [NestJS](https://nestjs.com/) and [TypeScript](https://www.typescriptlang.org/).
+* 🎮 I really enjoy playing video games in my free time
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermehs2/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guilhermexx28/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeHS2/)
+
+
+## ⚡ Stack
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,javascript,typescript,vuejs,python,linux,postgresql,docker)](https://skillicons.dev)
+
 
 <div>
-  <a href="https://github.com/Pedrinho46"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrinho46&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinho46&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHS2&show_icons=true&theme=tokyonight">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHS2&layout=compact&theme=tokyonight">
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedrinho46-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedrinho46-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pedrinho46-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedrinho46-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedrinho46-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
- ##
-<div> 
-  <a href="https://instagram.com/cabraal.pedro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
- 
