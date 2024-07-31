@@ -8,9 +8,7 @@ A Developer from Brazil with one year of experience in technical support and bac
 * 🎮 I really enjoy playing video games in my free time
 
 ## 🔗 Connect with me
-[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermehs2/](https://www.linkedin.com/in/pedro-undefined-823268230/))
-[![Instagram]([https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guilhermexx28/](https://www.instagram.com/cabraal.pedro/))
-[![GitHub]([https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeHS2/](https://github.com/Pedrinho46))
+
 
 
 ## ⚡ Stack
@@ -18,6 +16,5 @@ A Developer from Brazil with one year of experience in technical support and bac
 
 
 <div>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHS2&show_icons=true&theme=tokyonight">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHS2&layout=compact&theme=tokyonight">
+ 
 </div>
