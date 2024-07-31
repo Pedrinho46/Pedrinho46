@@ -5,7 +5,7 @@ A Developer from Brazil with one year of experience in technical support and bac
 * 👨‍💻 Backend developer at [IP Solution](https://ipsolutiontelecom.com.br/).
 * 💻 Currently studying Systems Analysis and Development at [Unifil](https://unifil.br/).
 * 🌱 Currently learning [NestJS](https://nestjs.com/) and [TypeScript](https://www.typescriptlang.org/).
-* 🎮 I really enjoy playing video games in my free time
+* 🎮 I like playing the guitar and playing video games in my free time.
 
 ## 🔗 Connect with me
 
