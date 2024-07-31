@@ -8,9 +8,9 @@ A Developer from Brazil with one year of experience in technical support and bac
 * 🎮 I really enjoy playing video games in my free time
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermehs2/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guilhermexx28/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeHS2/)
+[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermehs2/](https://www.linkedin.com/in/pedro-undefined-823268230/))
+[![Instagram]([https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guilhermexx28/](https://www.instagram.com/cabraal.pedro/))
+[![GitHub]([https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeHS2/](https://github.com/Pedrinho46))
 
 
 ## ⚡ Stack
