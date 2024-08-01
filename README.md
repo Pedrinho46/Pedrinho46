@@ -1,6 +1,6 @@
 <code>Console.log("Hello! My name is Pedro Cabral")</code>
 
-A Developer from Brazil with one year of experience in technical support and back end development
+A Brazilian developer with three years of experience in technical support and back-end development
 
 * 👨‍💻 Backend developer at [IP Solution](https://ipsolutiontelecom.com.br/).
 * 💻 Currently studying Systems Analysis and Development at [Unifil](https://unifil.br/).
